@@ -28,28 +28,38 @@ GitHub 上存放的开源项目使用了多达 36 种不同的编程语言，其
 PR 中最流行的语言居然是 JavaScript，是因为 JavaScript 比较容易么？而且 JavaScript、C# 和 Go 语言的 PR 增长率达到了两倍，甚至，Swift 和 TypeScript 虽然总量不多，但是增长率达到了 3.5 倍。
 
 6.	Github上可以有个人账号，还可以有（组织）账号
+
 7.	Github上面的两个组成要素是什么
+
 人/组织   仓库/项目
+
 8.	Github上两个重要页面
+
 数字仪表板，个人主页面
+
 9.	主页菜单都包含什么
+Github要素、Overview(个人信息、主要仓库、活跃度信息)、Repositories(自己的或参与的仓库)、Stars、Watch、Followers、Following、Github数字仪表盘.
 
 10.	仓库的心跳线代表什么
+
 此仓库的活跃程度
+
 11.	Star的作用是什么
+
 收藏
+
 12.	Fork的作用是什么
+
 GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即upstream repository，上游仓库）所有内容，如分支、Tag、提交；代码托管服务（如Github、BitBucket）提供了方便的完成Fork操作的功能（在仓库页面点一下Fork按钮）。这样有了一个你自己的可以自由提交的仓库，然后可以通过的PullRequest把你的提交贡献给原仓库
+
 13.	Watch的作用是什么
+
 关注项目：项目有进展时有邮件提醒
+
 14.	搜索结果分别有哪些类别
+
 Repositories  code  commits  issues  wikis  users
+
 15.	你在github上挖到什么宝
-Github问题集（2）
-创建仓库
-点击个人主页右上角的+号，选择New repository创建仓库
-Code视图
-Settings
-仓库中的settings设置可使网页变为互联网可访问的静态网页，还可修改仓库名，删除仓库
-Github page 
-GitHub页面旨在从GitHub存储库托管您的个人，组织或项目页面
+项目、人、资料.
+
